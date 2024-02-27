@@ -1,0 +1,3 @@
+bdnn_module           - Binary-decomposed NNのモジュールが格納されているフォルダ
+model                 - モデルが格納されているフォルダ
+  |---deit            - Imagenet画像分類モデル
